@@ -39,6 +39,12 @@ _Instale todas las dependencias del Proyecto con_
 composer install
 ```
 
+_Instale todas las dependencias JS del Proyecto con_
+
+```
+npm install
+```
+
 _Copie el Archivo .env.example en un archivo nuevo .env con_
 
 ```
